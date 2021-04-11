@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="login_btn">LogIn</string>
+    <string name="back">Back</string>
+    <string name="get_password_link">Get Password Link</string>
+    <string name="update_pass">Update password</string>
+    <string name="logout">LogOut</string>
+    <string name="new_password">New Password</string>
+    <string name="scramble">Scramble</string>
+    <string name="timer">Timer</string>
+    <string name="name">name</string>
+</resources>
